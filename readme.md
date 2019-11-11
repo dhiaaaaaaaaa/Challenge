@@ -1,6 +1,6 @@
 # 1. Setup
 ## Ruby & Bundler
-To be able to do this challange make sure you have installed a recent version of ruby and bunlder.
+To be able to do this challange make sure you have installed a recent version of ruby and bunlder......
 https://www.ruby-lang.org/en/
 https://bundler.io
 ## Clone the project
